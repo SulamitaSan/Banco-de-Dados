@@ -1,6 +1,6 @@
-Continuação do projeto Site de Viagens
-<br>
-Contendo nele:
-<br>
-Banco de Dados (BRModelo)
-Java, JDBC e MySql
+# World Turismo :airplane:
+
+Site de agencia de viagens
+
+## Stack utilizada
+Banco de Dados (BRModelo), Java, JDBC e MySql
